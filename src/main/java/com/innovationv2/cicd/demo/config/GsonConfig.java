@@ -1,4 +1,4 @@
-package edu.ecnu.smart.agriculture.config;
+package com.innovationv2.cicd.demo.config;
 
 
 import com.google.gson.*;

@@ -1,4 +1,4 @@
-package edu.ecnu.smart.agriculture.model;
+package com.innovationv2.cicd.demo.model;
 
 import lombok.Data;
 
@@ -33,5 +33,4 @@ public class BaseResponse {
         response.setMessage(msg);
         return response;
     }
-
 }
